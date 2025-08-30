@@ -8,7 +8,7 @@ MS Excel
 1. Utilized PowerPivot for data cleaning, ensuring accurate and consistent data for analysis 
 2. Created Pivot Tables to examine sales by day of the week, hour of the day, and by store location.
 3. Created bar and pie charts in an interactive dashboard to visually represent KPIs, top-selling products, revenue trends, and peak sales times.
-4. Analyzed retail sales data of a Coffee Shop to identify key performance trends and actionable insights.
+4. Analyzed the data of a to identify key performance trends and actionable insights.
 5. Generated actionable recommendations for optimizing staffing, inventory, and marketing strategies based on data insights.
 
 ## KPIs
