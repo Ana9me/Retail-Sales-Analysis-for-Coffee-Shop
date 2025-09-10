@@ -1,6 +1,8 @@
 # Retail-Sales-Analysis-for-Coffee-Shop
 Analyzed and visualized coffee shop sales data using PowerPivot and dashboards to uncover performance trends and deliver actionable recommendations for staffing, inventory, and marketing.
 
+![Dashboard Preview](https://github.com/Ana9me/Retail-Sales-Analysis-for-Coffee-Shop/blob/main/coffee.png)
+
 ## Tools Used -
 MS Excel
 
